@@ -1,0 +1,4 @@
+customer_id,customer_name,email,signup_date,region
+C101,Ajay,ajay@email.com,2023-01-10,APAC
+C102,Rahul,rahul@email.com,2023-03-15,EMEA
+C103,John,john@email.com,2023-05-20,NA
