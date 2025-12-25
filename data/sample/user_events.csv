@@ -1,0 +1,6 @@
+event_id,event_ts,user_id,session_id,event_type,product_id,device_type,platform
+E1001,2024-01-01 10:00:00,C101,S001,LOGIN,,Mobile,Android
+E1002,2024-01-01 10:05:00,C101,S001,ADD_TO_CART,P201,Mobile,Android
+E1003,2024-01-01 10:15:00,C101,S001,PURCHASE,P201,Mobile,Android
+E1004,2024-01-02 12:00:00,C102,S002,LOGIN,,Web,Web
+E1005,2024-01-02 12:10:00,C102,S002,ADD_TO_CART,P202,Web,Web
